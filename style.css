@@ -1,4 +1,4 @@
-h1{
+/*h1{
     color: blue;
     background-color: yellow;
 }
@@ -17,4 +17,19 @@ p{
 }
 button{
     color: blue;
+}*/
+div{
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
 }
